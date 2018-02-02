@@ -1,0 +1,7 @@
+G:\Programming\Before_interview\Training_App1\TrainingApps\bin\Debug\TrainingApps.exe.config
+G:\Programming\Before_interview\Training_App1\TrainingApps\bin\Debug\TrainingApps.exe
+G:\Programming\Before_interview\Training_App1\TrainingApps\bin\Debug\TrainingApps.pdb
+G:\Programming\Before_interview\Training_App1\TrainingApps\obj\Debug\TrainingApps.csprojResolveAssemblyReference.cache
+G:\Programming\Before_interview\Training_App1\TrainingApps\obj\Debug\TrainingApps.csproj.CoreCompileInputs.cache
+G:\Programming\Before_interview\Training_App1\TrainingApps\obj\Debug\TrainingApps.exe
+G:\Programming\Before_interview\Training_App1\TrainingApps\obj\Debug\TrainingApps.pdb
